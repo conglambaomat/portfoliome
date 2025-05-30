@@ -14,8 +14,9 @@ Chào mừng bạn đến với **PortfolioMe** – dự án website cá nhân h
 - **Bảo mật**: Chỉ admin đã xác thực mới truy cập được trang quản trị và API nhạy cảm.
 
 ## 🖥️ Demo giao diện
+Link website: https://portfoliome-dusky.vercel.app/
+> ![Demo PortfolioMe]![image](https://github.com/user-attachments/assets/313b922b-04e9-4716-9be4-be0097de0364)
 
-> ![Demo PortfolioMe](public/images/home.gif)  
 > *Giao diện portfolio hiện đại, hiệu ứng mượt mà, trải nghiệm tuyệt vời!*
 
 ## ⚡️ Cách sử dụng
@@ -26,6 +27,7 @@ Chào mừng bạn đến với **PortfolioMe** – dự án website cá nhân h
 git clone https://github.com/conglambaomat/portfoliome.git
 cd portfoliome
 npm install
+
 2. Cấu hình
 Tạo file .env (nếu chưa có), điền thông tin MongoDB và session secret:
 3. Chạy ứng dụng
