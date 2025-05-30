@@ -1,2 +1,2 @@
-# NT208.P21.Copilot
-Đây là repo lập trình web của nhóm Copilot với đề tài Portfolio  website
+# NT208.P21
+Đây là repo lập trình web với đề tài Portfolio  website
